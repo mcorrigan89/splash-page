@@ -1,12 +1,12 @@
 @import './variables.scss';
 .third-page {
     width: 100%;
-    min-height: 880px;
+    min-height: 100%;
     overflow: hidden;
     position: relative;
     padding-top: 160px;
     .row {
-        margin: 10 14%;
+        margin: 10 5%;
         display: flex;
         justify-content: space-around;
         flex-wrap: wrap;

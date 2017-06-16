@@ -1,7 +1,7 @@
 @import './variables.scss';
 .fourth-page {
     width: 100%;
-    height: 840px;
+    height: 100%;
     position: relative;
     display: flex;
     flex-direction: row;
@@ -10,8 +10,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 100%;
-        height: 100%;
+        min-width: 100%;
+        min-height: 100%;
         .play-btn {
             width: 200px;
             cursor: pointer;
@@ -21,7 +21,6 @@
         flex-grow: 1;
         flex-basis: 50%;
         .picture {
-            flex-shrink: 0.51;
             width: 100%;
         }
         .text-side {
@@ -29,7 +28,7 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            height: 100%;
+            max-height: 100%;
             .text-container {
                 margin-left: 140px;
                 text-align: left;
