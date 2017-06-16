@@ -1,0 +1,31 @@
+@import './variables.scss';
+@import './first-page.scss';
+@import './second-page.scss';
+@import './third-page.scss';
+@import './fourth-page.scss';
+@import './fifth-page.scss';
+@import './footer.scss';
+
+html,
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    text-decoration: none;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, li {
+    list-style-type: none;
+}

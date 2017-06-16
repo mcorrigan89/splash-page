@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="24" viewBox="0 0 121 24">
+    <g fill="#FFF" fill-rule="evenodd">
+        <path d="M0 24h5.25V0H0zM10.5 24h7.22l-7.22-9v9zM18 7.5A7.5 7.5 0 0 0 10.5 0v15A7.5 7.5 0 0 0 18 7.5z"/>
+        <text font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" letter-spacing="1">
+            <tspan x="33" y="17">RAINBOW U</tspan> <tspan x="117.865" y="17">I</tspan>
+        </text>
+    </g>
+</svg>
